@@ -7,3 +7,4 @@ int main(){
     cout<<arr[2]<<endl;
 }
 
+    
